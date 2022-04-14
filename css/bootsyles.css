@@ -1,0 +1,45 @@
+/*Collin Lowry 4/13*/
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 200px;
+    z-index: 2;
+    background-image: url(../assets/images/aboutmebackground.avif);
+    text-align: right;
+    font-size: 20px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 64px;
+    padding-right: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 10px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.toppage {
+    top: 175px;
+    font-size: 4rem;
+    text-align: center;
+    z-index: 3;
+}
+
+.footertext {
+    font-size: 10px;
+    color: #555555;
+}
+
